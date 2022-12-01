@@ -15,7 +15,6 @@ html,body{
 .otp-container{
     padding: 20px;
     width: 460px;
-    height: 38vh;
     border: 2px solid black;
     border-radius: 10px;
     text-align: center;
@@ -34,7 +33,7 @@ html,body{
     border: 2.2px solid #80a1ed;
 }
 .otp-input:not(:placeholder-shown) {
-    border: 2px solid #acd1f1;
+    border: 2px solid #b1d2f0;
     box-shadow: 0 2px 3px 0 grey;
 }
 .foot-note{
