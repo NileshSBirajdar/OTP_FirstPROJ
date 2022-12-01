@@ -14,7 +14,8 @@ html,body{
 
 .otp-container{
     padding: 20px;
-    width: 600px;
+    width: 460px;
+    height: 38vh;
     border: 2px solid black;
     border-radius: 10px;
     text-align: center;
@@ -22,17 +23,19 @@ html,body{
 
 .otp-input {
     width: 64px;
-    height: 100px;
-    font-size: 80px;
-    text-align: center;
+    height: 92px;
+    font-size: 65px;
+    border: 0.4px solid rgb(198, 196, 196);
+    border-radius: 5px;    
+    text-align: center; 
 }
 .otp-input:focus {
     outline: none;
-    border: 2px solid #9db8f5;
+    border: 2.2px solid #80a1ed;
 }
 .otp-input:not(:placeholder-shown) {
-    border: 2px solid #bcd6ed;
-    box-shadow: 0 2px 11px 0 grey;
+    border: 2px solid #acd1f1;
+    box-shadow: 0 2px 3px 0 grey;
 }
 .foot-note{
     background-color: #eeeeee;
