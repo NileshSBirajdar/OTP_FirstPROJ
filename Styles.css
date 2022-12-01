@@ -39,7 +39,8 @@ html,body{
 .foot-note{
     background-color: #eeeeee;
     color: #999999;
-    width: 400px;
+    width: 350px;
+    font-size: small;
     border-radius: 5px;
     margin: auto;
     margin-top: 20px;
